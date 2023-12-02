@@ -16,6 +16,6 @@
 	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" />
 	<br/><br/>
 	<img src="https://github-readme-stats.vercel.app/api?username=dltjdgh0428&show_icons=true"/>
-	![dmango's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlttjdgh0428&show_icons=true&theme=dark)   
+	<br/><br/>
 </div>
-
+![dmango's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlttjdgh0428&show_icons=true&theme=dark)   
