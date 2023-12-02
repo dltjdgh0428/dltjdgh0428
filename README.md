@@ -18,4 +18,4 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=dltjdgh0428&show_icons=true"/>
 	<br/><br/>
 </div>
-![dmango's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlttjdgh0428&show_icons=true&theme=dark)   
+![dmango's GitHub stats](https://github-readme-stats.vercel.app/api?username=KING_S&show_icons=true&theme=dark)   
